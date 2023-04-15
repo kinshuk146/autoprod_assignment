@@ -1,0 +1,23 @@
+.CenterAlign{
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+    padding-top:3rem;
+}
+
+.ProductContentHeading{
+    font-size:25px;
+    font-weight:bold;
+}
+
+.ProductContentSubHeading{
+    font-size:20px;
+    max-width: 550px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ProductContent{
+    background-color: var(--backgroundColor1);
+    padding-bottom: 6rem;
+}

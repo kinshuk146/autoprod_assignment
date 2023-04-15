@@ -1,0 +1,78 @@
+.Header{
+    background-image: url(https://uploads-ssl.webflow.com/5f23b456c81e6bebb921e9cb/6386e737a14aa4809f6eca6c_Gradient-mesh-lightest.png);
+    
+    margin-top:-10rem;
+}
+.HeaderContent{
+    padding-top: 11rem;
+    padding-bottom: 15rem;
+}
+.heading{
+    color:#6e63fa;
+    letter-spacing: 2px;
+}
+
+.SubHeading{
+    font-size: 25px;
+    width:325px;
+    line-height: 60px;
+    color:#0a2540;
+}
+
+.Text{
+    max-width: 390px;
+    font-size: 23px;
+    color:#475467;
+}
+
+.HeaderButton{
+    background-color:#584cd4;
+    border-radius:10px;
+    text-transform:none;
+    font-size:16px;
+    margin-top: 4rem;
+}
+
+.shopifyImg{
+    max-height: 30px;
+    margin-top: 1rem;
+}
+
+.heatherGreyImg{
+    max-width:700px;
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+.heatherGreyImg{
+    max-width: 200px;
+}
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+.heatherGreyImg{
+    max-width: 300px;
+}
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+    .heatherGreyImg{
+        max-width: 450px;
+    }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+    .heatherGreyImg{
+        max-width: 500px;
+    }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+    .heatherGreyImg{
+        max-width: 650px;
+    }
+}

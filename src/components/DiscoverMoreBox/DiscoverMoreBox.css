@@ -1,0 +1,10 @@
+.DiscoverContent{
+    margin-left:5rem;
+    font-size: 14px;
+    padding-right: 2rem;
+    padding-top: 3rem;
+}
+
+.DiscoverMoreBox:hover{
+    transform: translateY(-3.5px);
+}

@@ -1,0 +1,41 @@
+.HowItWorksButton{
+    position:absolute;
+    height: 70px;
+    width: 70px;
+    top:40%;
+    left:47.2%;
+    z-index: 10;
+    border-radius: 50%;
+    border: 0px ;
+    background-color: white;
+    color:var(--headingColor1);
+    font-size: 1.5rem;
+}
+
+.HowItWorksImg{ 
+    width:80%;
+    margin-left:4rem;
+    margin-top:4rem;
+}
+
+.semiContent{
+    margin-left: 2rem;
+}
+
+.semiContent h5{
+    margin-top:-0.2rem;
+    margin-bottom:-0.5rem;
+    font-size:15px;
+    color:#3e5f86;
+}
+
+.semiContent p{
+    font-size:15px;
+    color:#475467;
+}
+
+.BoxContent{
+    margin-top: 3rem;
+    margin-left:3rem;
+    margin-right:3rem;
+}

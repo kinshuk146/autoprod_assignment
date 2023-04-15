@@ -1,0 +1,33 @@
+.ProductDescriptionheading{
+    font-size: 20px;
+    color:var(--textcolor1);
+}
+
+.ProductDescriptionSubheading{
+    font-size: 40px;
+    line-height: 40px;
+}
+  
+.ProductDescriptionparagraph{
+    font-size: 18px;
+    color:var(--textcolor2);
+    margin-top: 2rem;
+}
+
+  .left {
+    padding-top: 11rem;
+    padding-bottom: 5rem;
+    position: sticky;
+    top: 0;
+    max-width: 30%;
+  }
+
+  
+  
+  .right {
+    margin-left: 30rem;
+    margin-top: -40rem;
+    min-width: 60%;
+  }
+  
+  

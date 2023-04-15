@@ -1,0 +1,19 @@
+.DiscoverMore{
+    background-image: url(https://uploads-ssl.webflow.com/5f23b456c81e6bebb921e9cb/638829ff2f52650d9e16faa5_Other%20Tools.png);
+}
+
+
+.DiscoverHeading{
+    font-size: 25px;
+    margin-left:auto;
+    margin-right:auto;
+    text-align: center;
+    padding-top: 6rem;
+    padding-bottom: 3rem;
+}
+
+.ContainerBoxes{
+    padding-left: 3.5rem;
+    padding-right: 3.5rem;
+    padding-bottom: 4rem;
+}

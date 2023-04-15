@@ -1,0 +1,14 @@
+.ProductDescriptionbutton{
+    background-color: #f0fcfc;
+    border: none;
+    color: black;
+    padding: 2.5px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 1px 5px;
+    cursor: pointer;
+    border-radius: 16px;
+    font-size: 14px;
+
+}

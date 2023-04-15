@@ -1,0 +1,16 @@
+.PopOverHeading{
+    font-size:18px;
+    margin-top: 2rem;
+}
+
+.PopOverDescription{
+    font-size:15px;
+    color:#667085;
+}
+
+.PopHeading{
+    margin-top: 3rem;
+    margin-left: 1rem;
+    font-size: 15px;
+    color:#5148d7;
+}

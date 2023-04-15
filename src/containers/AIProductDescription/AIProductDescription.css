@@ -1,0 +1,28 @@
+.AIProductDescriptionHeading{
+    padding-right: 6rem;
+    padding-top:6rem;
+    font-size: 20px;
+    text-align: center;
+    color:var(--headingColor1)
+}
+
+.AIProductText{
+    
+    margin-top: 5rem;
+    margin-left:6rem;
+}
+
+.AIProductparagraph{
+    margin-top:1rem;
+}
+
+.AIProductHeading{
+    margin-top:1.5rem;
+    margin-bottom:1.5rem;
+    font-size: 20px;
+}
+
+.AIProductSubHeading{
+    font-size:18px;
+    margin-top:1.5rem;
+}

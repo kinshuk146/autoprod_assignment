@@ -1,0 +1,23 @@
+.HowItWorks{
+    margin-top: 5rem;
+    margin-left:auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.HowItWorksBoxes{
+    display:flex;
+    flex-direction: column;
+    margin-top: 6rem;
+    position:relative;
+}
+
+.HowItWorksBoxes:after {
+    content:"";
+    position: absolute;
+    z-index: 5;
+    top: 10%;
+    bottom: 13%;
+    left: 50%;
+    border-left: 8px dotted #eae6ff; /*change these values to suit your liking*/
+}
